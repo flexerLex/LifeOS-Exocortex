@@ -1,0 +1,1 @@
+Use `AGENTS.md` as the source of truth for architecture, security invariants, and engineering workflow. Read `docs/ARCHITECTURE.md` before implementation. Keep changes small, test domain invariants, and do not claim build/test success unless the commands actually ran.

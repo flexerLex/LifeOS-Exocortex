@@ -1,0 +1,1 @@
+Read `AGENTS.md` and `docs/ARCHITECTURE.md` before changing code. Apply `.claude/rules/dotnet.md`. For new work, use `/feature-slice` to plan a small vertical slice and `/verify-change` before reporting completion. Treat all model output as untrusted and follow the repository's deny-by-default privacy policy.
